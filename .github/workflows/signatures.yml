@@ -22,3 +22,4 @@ jobs:
           ignore-list: MaelAcier
           unsigned-label: unsigned
           signed-label: signed
+          ignore-label: ignore-CLA
