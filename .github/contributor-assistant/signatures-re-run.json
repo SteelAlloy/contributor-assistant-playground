@@ -1,13 +1,5 @@
 {
   "type": "contributor-assistant/signatures/re-run",
   "version": 1,
-  "data": [
-    {
-      "pullRequest": 36,
-      "runId": 1007985905,
-      "unsigned": [
-        52361520
-      ]
-    }
-  ]
+  "data": []
 }
