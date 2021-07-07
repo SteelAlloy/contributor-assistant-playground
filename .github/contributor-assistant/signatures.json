@@ -42,7 +42,7 @@
           "login": "oganexon"
         },
         "issue": 31,
-        "date": "2021-07-07T09:36:59.210Z",
+        "date": "2021-07-07T09:39:15.844Z",
         "fields": [
           [
             true
@@ -64,6 +64,21 @@
           ]
         ],
         "endDate": "2021-07-07T09:36:59.210Z",
+        "formSHA": "b4216dcfb8ce1272dba3b5d2083f2d89ed4e80330b36f635a1844da62540fea8"
+      },
+      {
+        "user": {
+          "databaseId": 52361520,
+          "login": "oganexon"
+        },
+        "issue": 31,
+        "date": "2021-07-07T09:36:59.210Z",
+        "fields": [
+          [
+            true
+          ]
+        ],
+        "endDate": "2021-07-07T09:39:15.844Z",
         "formSHA": "b4216dcfb8ce1272dba3b5d2083f2d89ed4e80330b36f635a1844da62540fea8"
       }
     ],
